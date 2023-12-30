@@ -1,4 +1,8 @@
-# co097427c919a8af765b6a9ed
+live demo is on: https://cat-bucket.netlify.app/
+
+- Developed "Cat Bucket," an online to-do list web app using HTML, CSS, and JavaScript.
+- Integrated Firebase for secure data storage and retrieval.
+- Allowed users to add, delete item.
 
 Quick start:
 
